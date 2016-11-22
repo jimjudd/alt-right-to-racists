@@ -9,4 +9,4 @@ Chrome extension that replaces occurrences of 'Alt Right' with a more accurate p
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag Alt-RightToNeo-Nazis.crx into the page that appears.
+In Chrome, type [chrome://extensions/](chrome://extensions/).  Drag Alt-RightToNeo-Nazis.crx into the page that appears.
